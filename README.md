@@ -1,5 +1,9 @@
 ### Hello There, Visitor 👋 ![](https://komarev.com/ghpvc/?username=clientinfo&color=FF0555)
 
+## Languages
+-  English (Business)
+-  German (Mother Tongue)
+
 ## Programming Languages
 ![ABAP](https://img.shields.io/badge/-ABAP-000?&logo=sap)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=cplusplus)
@@ -8,6 +12,13 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+
+## Frameworks Worked With
+![SAPUI5](https://img.shields.io/badge/-SAPUI5-000?&logo=sap)
+![Dear ImGui](https://img.shields.io/badge/-Dear%20ImGui-000)
+![Direct X](https://img.shields.io/badge/-Direct%20X-000?&logo=windows)
+![Detours](https://img.shields.io/badge/-Detours-000?&logo=windows)
+![Windows WDK](https://img.shields.io/badge/-Windows%20WDK-000?&logo=windows)
 
 ## Software Knowledge
 
