@@ -1,5 +1,14 @@
 ### Hello There, Visitor 👋 ![](https://komarev.com/ghpvc/?username=clientinfo&color=FF0555)
 
+## Programming Languages
+![ABAP](https://img.shields.io/badge/-ABAP-000?&logo=sap)
+![C++](https://img.shields.io/badge/-C%2B%2B-000?&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+
 ## Software Knowledge
 
 ### IDE´s
